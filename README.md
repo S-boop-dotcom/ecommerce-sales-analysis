@@ -116,7 +116,7 @@ Some notable findings from the analysis include:
 
 ---
 
-## 🚀 Skills Demonstrated
+## Skills Demonstrated
 
 - Data Cleaning
 - Data Transformation
@@ -125,7 +125,7 @@ Some notable findings from the analysis include:
 - Data Visualization
 - Problem Solving with Data
 
-## 👨‍💻 Author
+## Author
 
 **Sfiso Tshabalala**
 
@@ -133,6 +133,6 @@ Aspiring Data Analyst passionate about transforming raw data into meaningful ins
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 
 This project was created for portfolio development and to demonstrate practical data analytics skills using Microsoft Excel.
