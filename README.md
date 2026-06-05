@@ -112,7 +112,7 @@ Some notable findings from the analysis include:
 
 ### Dashboard Overview
 
-![Dashboard Overview](Visuals/visuals_sales.png)
+![Dashboard Overview](e-commere_records_Excel/Visuals/visuals_sales.png)
 
 ---
 
